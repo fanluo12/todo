@@ -1,7 +1,5 @@
-# Your First Full Stack Application with React and Spring Boot
+# Full Stack Application -- todo application with React and Spring Boot
 
-
-## Take your first steps towards becoming a Full Stack Developer with React and Spring Boot
 
 React is a one of the most popular front end view frameworks
 - Components
