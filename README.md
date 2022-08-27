@@ -39,7 +39,7 @@ In this project, we combine these awesome frameworks to create full stack web ap
   - 3 - Using Embedded Maven in Eclipse
   - 4 - Troubleshooting Java, Eclipse and Maven
 
-## Course Overview
+## Project Overview
 
 ### Introduction
 This project is a full stack development developing a Basic Todo Management Application using React, Spring Boot and Spring Security Frameworks.
@@ -48,7 +48,7 @@ This project uses React (Frontend View Framework), React Create App(To create Re
 
 ### What steps this project contains
 
-- Definately a full stack application with React and Spring Boot
+- A full stack application with React and Spring Boot
 - Knowledge of React - React Components and Routing
 - Building awesome frontend applications with React
 - RESTful APIs with Spring Boot
